@@ -25,7 +25,7 @@ Inspired by Spotify Wrapped, but for your WhatsApp messages.
 
 ## IMPORTANT
 
-If you are using WhatsApp on an **iPhone* and analysing your chats on **Windows**, you must:  
+If you are using WhatsApp on an **iPhone** and analysing your chats on **Windows**, you must:  
 
 1️⃣ Create an encrypted iPhone backup using Apple Devices  
 2️⃣ Extract ChatStorage.sqlite from the backup  
