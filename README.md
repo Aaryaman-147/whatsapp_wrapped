@@ -25,11 +25,15 @@ Inspired by Spotify Wrapped, but for your WhatsApp messages.
 
 ## IMPORTANT
 
-If you are using WhatsApp on an iPhone and analysing your chats on Windows, you must:
+If you are using WhatsApp on an **iPhone* and analysing your chats on **Windows**, you must:  
 
 1️⃣ Create an encrypted iPhone backup using Apple Devices  
 2️⃣ Extract ChatStorage.sqlite from the backup  
 3️⃣ Provide that database path to the script  
+
+If you are using WhatsApp and running this script on **macOS**, follow these steps:  
+1️⃣ Open Terminal  
+2️⃣ Grant Terminal Full Disk Access (System Settings → Privacy & Security → Full Disk Access; Click the + icon → navigate to: Applications → Utilities → Terminal)  
 
 ---
 
