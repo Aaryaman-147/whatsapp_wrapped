@@ -25,5 +25,5 @@ Inspired by Spotify Wrapped, but for your WhatsApp messages.
 
 ## DISCLAIMER
 
-It is not affiliated with, endorsed, or sponsored by WhatsApp ,  Meta , Apple or Spotify.
+It is not affiliated with, endorsed, or sponsored by WhatsApp ,  Meta , Apple or Spotify.  
 Inspired by [@kothari-nikunj](https://github.com/kothari-nikunj)
