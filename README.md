@@ -1,4 +1,6 @@
 # WHATSAPP WRAPPED
+Ever wished WhatsApp had its own **Wrapped**?  
+Now you don’t have to wait for Meta to make one.  
 Your texting habits - uncovered.
 Inspired by Spotify Wrapped, but for your WhatsApp messages.
 
