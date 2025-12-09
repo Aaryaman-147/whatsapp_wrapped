@@ -11,6 +11,8 @@ Inspired by Spotify Wrapped, but for your WhatsApp messages.
 - 🕒 Most active days and hours
 - 🖼️ Counts for media
 - 🧾 Pretty, terminal-based “Wrapped” summary
+- 🧠 Your personality
+- 📅 GitHub inspired contribution graph
 
 ---
 
