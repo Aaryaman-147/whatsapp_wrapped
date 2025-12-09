@@ -19,7 +19,17 @@ Inspired by Spotify Wrapped, but for your WhatsApp messages.
 - FOR MAC: curl -O https://raw.githubusercontent.com/Aaryaman-147/whatsapp_wrapped/main/mac.py
   and then run python3 mac.py
 - FOR WINDOWS: curl -O  https://raw.githubusercontent.com/Aaryaman-147/whatsapp_wrapped/main/windows.py
-  and then run python3 windows.py
+  and then run python3 windows.py --db "path/to/ChatStorage.sqlite"
+
+---
+
+## IMPORTANT
+
+If you are using WhatsApp on an iPhone and analysing your chats on Windows, you must:
+
+1️⃣ Create an encrypted iPhone backup using Apple Devices
+2️⃣ Extract ChatStorage.sqlite from the backup
+3️⃣ Provide that database path to the script
 
 ---
 
